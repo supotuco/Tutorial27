@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tutorial27</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+
+    <string-array name="android_versions">
+
+        <item>doughnut</item>
+        <item>eclair</item>
+        <item>froyo</item>
+        <item>gingerbread</item>
+        <item>honeycomb</item>
+        <item>jelly bean</item>
+        <item>kit kat</item>
+        <item>lollipop</item>
+        <item>marshmellow</item>
+
+    </string-array>
+
+</resources>
